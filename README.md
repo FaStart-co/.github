@@ -6,11 +6,10 @@ This repository contains FaStart's public GitHub organization profile and defaul
 
 - `profile/README.md` — public organization profile shown on the FaStart GitHub overview page.
 - `CONTRIBUTING.md` — default contribution guidance for public repositories.
-- `SECURITY.md` — security reporting policy.
+- `SECURITY.md` — security policy for public repositories.
 - `SUPPORT.md` — support and contact guidance.
-- `CODE_OF_CONDUCT.md` — community participation standards.
 - `PULL_REQUEST_TEMPLATE.md` — default pull request checklist.
-- `.github/ISSUE_TEMPLATE/` — default issue templates.
+- `.github/ISSUE_TEMPLATE/config.yml` — default issue-template configuration.
 
 ## About FaStart
 
