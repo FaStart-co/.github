@@ -28,4 +28,4 @@ A strong pull request should include:
 
 ## Community Standards
 
-All contributors are expected to follow our [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md).
+Please keep public collaboration respectful, constructive, and focused on the work.
