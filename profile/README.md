@@ -2,8 +2,6 @@
 
 <img src="./assets/images/logo.png" alt="FaStart Logo" width="220" />
 
-# FaStart
-
 ### The Fastest Start in E-Commerce
 
 **AI-native commerce infrastructure for merchants, operators, and AI-assisted commerce workflows.**
