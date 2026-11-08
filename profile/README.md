@@ -1,7 +1,9 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/images/logo-white.png">
-  <img src="assets/images/logo-black.png" alt="FaStart" width="220">
-</picture>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/images/logo-white.png">
+    <img src="assets/images/logo-black.png" alt="FaStart" width="220">
+  </picture>
+</p>
 
 FaStart builds online stores and marketplaces run by AI agents.
 
