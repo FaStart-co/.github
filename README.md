@@ -1,18 +1,5 @@
-# FaStart GitHub Defaults
+# FaStart on GitHub
 
-This repository contains FaStart's public GitHub organization profile and default community health files.
+This repo holds our organization profile (`profile/README.md`) and the default community files for FaStart's public repositories.
 
-## Contents
-
-- `profile/README.md` — public organization profile shown on the FaStart GitHub overview page.
-- `CONTRIBUTING.md` — default contribution guidance for public repositories.
-- `SECURITY.md` — security policy for public repositories.
-- `SUPPORT.md` — support and contact guidance.
-- `PULL_REQUEST_TEMPLATE.md` — default pull request checklist.
-- `.github/ISSUE_TEMPLATE/config.yml` — default issue-template configuration.
-
-## About FaStart
-
-FaStart is building AI-native commerce infrastructure for merchants, operators, and AI-assisted commerce workflows.
-
-For business, partnership, or integration inquiries, contact **contact@fastart.co**.
+Questions about FaStart go to contact@fastart.co.
